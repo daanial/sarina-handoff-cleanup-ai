@@ -107,8 +107,8 @@ Built for designers and product teams that want faster, clearer handoff without 
 
 **In loving memory of Sarina Esmailzadeh.**
 
-She was a  16-year-old teenager, she was a YouTube content creator posting videos about normal teenage life—family trips, making food—alongside her keen observations on the situation of Iranian women and Iranians under authoritarian rule.
+She was a  16-year-old teenager and a YouTube content creator posting videos about normal teenage life—family trips, making food—alongside her keen observations on the situation of Iranian women and Iranians under authoritarian rule.
 
-In September 2022, she was murdered by Iranian authorities while protesting in the name of "Women, Life, Freedom," moved by the death of Mahsa Amini. She was killed by severe beating with batons to the head by IRGC security forces WNcri. Authorities falsely claimed she died by suicide, which human rights organizations strongly condemned.
+In September 2022, she was murdered by Iranian authorities while protesting in the name of "Women, Life, Freedom," moved by the death of Mahsa Amini. She was killed by severe beating with batons to the head by IRGC security forces. Authorities falsely claimed she died by suicide, which human rights organizations strongly condemned.
 
 Her death—along with at least 43 other children killed by authorities—represents the crackdown on a fearless generation of Iranian youth demanding freedom and dignity.
