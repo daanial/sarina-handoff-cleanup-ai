@@ -103,9 +103,9 @@ What you can do:
 Built for designers and product teams that want faster, clearer handoff without manual cleanup.
 
 
-**About Sarina**
+## About Sarina
 
-In loving memory of Sarina Esmailzadeh. 
+**In loving memory of Sarina Esmailzadeh.**
 
 She was a  16-year-old teenager, she was a YouTube content creator posting videos about normal teenage life—family trips, making food—alongside her keen observations on the situation of Iranian women and Iranians under authoritarian rule.
 
