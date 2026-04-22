@@ -1,0 +1,18 @@
+{
+  "name": "Sarina Handoff Cleanup AI",
+  "id": "1628512025178676656",
+  "api": "1.0.0",
+  "editorType": ["figma"],
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["https://api.anthropic.com"],
+    "devAllowedDomains": ["http://localhost:3000"]
+  },
+  "menu": [
+    { "name": "Open Cleanup Panel", "command": "open" },
+    { "name": "Quick Rename Selected Frames", "command": "rename-frames" },
+    { "name": "Add Annotations to Selected Frames", "command": "annotate-frames" }
+  ]
+}
